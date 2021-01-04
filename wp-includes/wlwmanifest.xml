@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app103.us.archive.org';v.server_ms=3367;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/playback.bundle.js?v=SOX25l-I" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=cRqOKCOw" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://www.thebestladderreviews.com/wp-includes/wlwmanifest.xml","20180905235629","https://web.archive.org/","web","/_static/",
+	      "1536191789");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=bsmaklHF" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+<manifest xmlns="http://schemas.microsoft.com/wlw/manifest/weblog">
+
+  <options>
+    <clienttype>WordPress</clienttype>
+	<supportskeywords>Yes</supportskeywords>
+	<supportsgettags>Yes</supportsgettags>
+  </options>
+
+  <weblog>
+    <servicename>WordPress</servicename>
+    <imageurl>images/wlw/wp-icon.png</imageurl>
+    <watermarkimageurl>images/wlw/wp-watermark.png</watermarkimageurl>
+    <homepagelinktext>View site</homepagelinktext>
+    <adminlinktext>Dashboard</adminlinktext>
+    <adminurl>
+      <![CDATA[
+			{blog-postapi-url}/../wp-admin/
+		]>
+    </adminurl>
+    <posteditingurl>
+      <![CDATA[
+			{blog-postapi-url}/../wp-admin/post.php?action=edit&post={post-id}
+		]>
+    </posteditingurl>
+  </weblog>
+
+  <buttons>
+    <button>
+      <id>0</id>
+      <text>Manage Comments</text>
+      <imageurl>images/wlw/wp-comments.png</imageurl>
+      <clickurl>
+        <![CDATA[
+				{blog-postapi-url}/../wp-admin/edit-comments.php
+			]>
+      </clickurl>
+    </button>
+
+  </buttons>
+
+</manifest>
+<!--
+     FILE ARCHIVED ON 23:56:29 Sep 05, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:54:54 Jan 04, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  exclusion.robots: 0.196
+  load_resource: 3141.278
+  PetaboxLoader3.datanode: 1457.601 (4)
+  exclusion.robots.policy: 0.182
+  esindex: 0.014
+  PetaboxLoader3.resolve: 1793.232
+  RedisCDXSource: 15.395
+  LoadShardBlock: 175.956 (3)
+  CDXLines.iter: 23.772 (3)
+  captures_list: 219.584
+-->
